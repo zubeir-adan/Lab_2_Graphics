@@ -178,7 +178,7 @@ context.set_line_width(0.8)
 context.stroke()
 
 # Save the drawing
-surface.write_to_png("2D_House.png")
+surface.write_to_png("house.png")
 print("Drawing saved as Updated_House.png")
 
 
